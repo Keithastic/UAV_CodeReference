@@ -43,6 +43,11 @@ The MADDPG algorithm enables the UAV agents to learn optimal task offloading pol
 
 7. Evaluation and Deployment: The Model can be evaluated using the `test.py` file in the code folder by loading the weights of trained actor-critic networks.
 
+## Installation Dependencies
+
+- Python 3.12.2
+- Tensorflow 2.16.2
+
 ## References
 
 Lowe, R., Wu, Y., Tamar, A., Harb, J., Abbeel, O. P., & Mordatch, I. (2017). Multi-agent actor-critic for mixed cooperative-competitive environments. In Advances in Neural Information Processing Systems (pp. 6382-6393).
